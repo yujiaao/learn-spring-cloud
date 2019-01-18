@@ -42,3 +42,8 @@ ALT+CMD+A
 Code of line
 $ brew install sloccount 
 
+##
+¡ǝɯ ɹǝqɯǝɯǝɹ noʎ ǝdoɥ
+https://www.llzg.cn/flip.html
+
+
