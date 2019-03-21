@@ -40,21 +40,23 @@ ALT+CMD+A
 
 ## 计算源码行数 COL
 Code of line
-$ brew install sloccount 
-
+```
+    $ brew install sloccount 
+```
 ## 字符180度翻转
 ¡ǝɯ ɹǝqɯǝɯǝɹ noʎ ǝdoɥ
 https://www.llzg.cn/flip.html
 
 ## 牛说 cowsay
 
-~$ cowsay 你好
- ______
-< 你好 >
- ------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
+```
+    ~$ cowsay 你好
+     ______
+    < 你好 >
+     ------
+            \   ^__^
+             \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
+```
