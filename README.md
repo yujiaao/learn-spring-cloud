@@ -31,6 +31,7 @@ Application Version: ${application.version}${application.formatted-version}
 Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
 
 生成自: http://www.network-science.de/ascii/
+这个链接也很酷 http://www.figlet.org/
 ```
 可以修改 spring boot 的启动 banner
 
