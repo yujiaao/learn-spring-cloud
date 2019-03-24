@@ -61,3 +61,21 @@ https://www.llzg.cn/flip.html
                     ||----w |
                     ||     ||
 ```
+## Quotes motivate or fortune
+### motivate
+git clone https://github.com/mubaris/motivate.git
+### fortune
+```
+sudo apt-get install fortune
+或
+brew install fortune
+```
+    $ fortune
+    I am, in point of fact, a particularly haughty and exclusive person, of
+    pre-Adamite ancestral descent.  You will understand this when I tell you
+    that I can trace my ancestry back to a protoplasmal primordial atomic
+    globule.  Consequently, my family pride is something inconceivable.  I
+    can't help it.  I was born sneering.
+      -- Pooh-Bah, "The Mikado"
+      
+      
