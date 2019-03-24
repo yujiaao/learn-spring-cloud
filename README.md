@@ -78,4 +78,9 @@ brew install fortune
     can't help it.  I was born sneering.
       -- Pooh-Bah, "The Mikado"
       
-      
+修改~.bashrc, 这样,你每次打开终端都会看到一条引言
+
+    #!/bin/bash
+    # ~/.bashrc
+    fortune
+
